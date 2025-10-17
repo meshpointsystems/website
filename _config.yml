@@ -2,7 +2,7 @@ title: "Meshpoint Systems"
 name: "Craig Fedorak"
 description: "Technology consulting and automation solutions."
 url: "https://MeshPoint.ca"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-include-cache
