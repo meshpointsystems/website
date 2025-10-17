@@ -1,0 +1,34 @@
+title: "Meshpoint Systems"
+name: "Craig Fedorak"
+description: "Technology consulting and automation solutions."
+url: "https://MeshPoint.ca"
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Optional social links
+author:
+  name: "Craig Fedorak"
+  avatar: "/assets/images/profile.jpg"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/meshpointsystems"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - portfolio.md
+  - pricing.md
+  - contact.md
+
+# Theme settings
+minimal_mistakes_skin: "dark"  # options: default, dark, mint, neon, etc.
+paginate: 5
