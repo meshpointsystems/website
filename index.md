@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "Meshpoint Systems"
 author_profile: true
 ---
