@@ -1,15 +1,13 @@
 
 title: "Meshpoint Systems"
 description: "Technology consulting and automation solutions."
-url: "https://MeshPoint.ca"   # change to your actual custom domain only when DNS is pointed
-theme: jekyll-theme-minimal
-
-# Only use plugins that GitHub Pages supports natively
+url: "https://MeshPoint.ca"     # set after DNS is live
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-feed
 
-# Author/social (jekyll-theme-minimal won’t render icons automatically; links still useful for SEO/feeds)
 author:
   name: "Craig Fedorak"
   avatar: "/assets/images/profile.jpg"
@@ -19,13 +17,10 @@ author:
     - label: "LinkedIn"
       url: "https://linkedin.com/in/yourprofile"
 
-# Top navigation — these files must exist at project root
+# Cayman uses the page's front matter and site title; header nav still works fine
 header_pages:
   - index.md
   - about.md
   - portfolio.md
   - pricing.md
   - contact.md
-
-# Remove paginate unless you have blog posts + the pagination plugin configured
-# paginate: 5
