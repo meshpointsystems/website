@@ -1,28 +1,25 @@
+
 title: "Meshpoint Systems"
-# name: "Craig Fedorak"
 description: "Technology consulting and automation solutions."
-url: "https://MeshPoint.ca"
-#remote_theme: "mmistakes/minimal-mistakes"
+url: "https://MeshPoint.ca"   # change to your actual custom domain only when DNS is pointed
 theme: jekyll-theme-minimal
 
+# Only use plugins that GitHub Pages supports natively
 plugins:
-  - jekyll-include-cache
-  - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-feed
 
-# Optional social links
+# Author/social (jekyll-theme-minimal won’t render icons automatically; links still useful for SEO/feeds)
 author:
   name: "Craig Fedorak"
   avatar: "/assets/images/profile.jpg"
   links:
     - label: "GitHub"
-      icon: "fab fa-github"
       url: "https://github.com/meshpointsystems"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/yourprofile"
 
-# Navigation
+# Top navigation — these files must exist at project root
 header_pages:
   - index.md
   - about.md
@@ -30,6 +27,5 @@ header_pages:
   - pricing.md
   - contact.md
 
-# Theme settings
-#minimal_mistakes_skin: "dark"  # options: default, dark, mint, neon, etc.
-paginate: 5
+# Remove paginate unless you have blog posts + the pagination plugin configured
+# paginate: 5
