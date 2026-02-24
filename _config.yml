@@ -31,5 +31,5 @@ header_pages:
   - contact.md
 
 # Theme settings
-minimal_mistakes_skin: "dark"  # options: default, dark, mint, neon, etc.
+#minimal_mistakes_skin: "dark"  # options: default, dark, mint, neon, etc.
 paginate: 5
