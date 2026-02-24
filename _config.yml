@@ -3,6 +3,7 @@ title: "Meshpoint Systems"
 description: "Technology consulting and automation solutions."
 url: "https://MeshPoint.ca"     # set after DNS is live
 remote_theme: pages-themes/cayman@v0.2.0
+show_downloads: false
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
