@@ -1,15 +1,16 @@
 ---
-layout: page
-title: "Meshpoint Systems"
-author_profile: true
+layout: default
+title: Meshpoint Systems
 ---
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-  </head>
-  <body>
-    <h1>Welcome to **Meshpoint Systems** — providing automation, integration, and system optimization solutions designed for reliability, clarity, and performance.</h1>
-  </body>
-</html>
+
+# Meshpoint Systems
+**Technology consulting and automation solutions** in Kelowna, BC.
+
+We help small and mid‑size teams streamline operations, automate workflows, and modernize cloud infrastructure—so you can focus on growth.
+
+## Contact
+- **Email:** hello@meshpoint.ca
+- **LinkedIn:** https://linkedin.com/in/yourprofile
+- **GitHub:** https://github.com/meshpointsystems
+
+© {{ site.time | date: "%Y" }} Meshpoint Systems
