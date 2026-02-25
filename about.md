@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "About"
-permalink: /about/
+title: About
 ---
 
 I’m Craig Fedorak, a technology professional specializing in business automation, systems integration, and cloud solution design.
