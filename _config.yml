@@ -4,7 +4,8 @@ description: "Technology consulting and automation solutions."
 url: "https://MeshPoint.ca"     # set after DNS is live
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-midnight
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 show_downloads: false
 github:
