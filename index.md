@@ -4,13 +4,21 @@ title: Meshpoint Systems
 ---
 
 # Meshpoint Systems
-**Technology consulting and automation solutions** in Kelowna, BC.
 
-We help small and mid‑size teams streamline operations, automate workflows, and modernize cloud infrastructure—so you can focus on growth.
+Straightforward IT consulting for organizations whose systems have become 
+difficult to manage, costly to maintain, or impossible to hand off.
+
+Complex environments accumulate debt over time. Misconfigurations, 
+undocumented systems, undefined ownership, and processes that only work 
+because one person knows why. This is what we fix.
+
+Clean governance. Automation that removes human error from routine work. 
+Documentation that outlasts any single person.
+
+Operating remotely across Canada on a contract basis.
 
 ## Contact
 - **Email:** info@meshpoint.ca
-- **LinkedIn:** https://ca.linkedin.com/in/craig-fedorak-6510b2283
-- **GitHub:** https://github.com/meshpointsystems
+- **LinkedIn:** https://ca.linkedin.com/in/craigfedorak
 
 © {{ site.time | date: "%Y" }} Meshpoint Systems
