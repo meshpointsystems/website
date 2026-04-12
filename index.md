@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Meshpoint Systems Inc.
 ---
 Straightforward IT consulting for organizations whose systems have become 
 difficult to manage, costly to maintain, or impossible to hand off.
